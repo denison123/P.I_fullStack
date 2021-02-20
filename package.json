@@ -1,0 +1,26 @@
+{
+  "name": "p.i_fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denison123/P.I_fullStack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denison123/P.I_fullStack/issues"
+  },
+  "homepage": "https://github.com/denison123/P.I_fullStack#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "node": "^15.8.0",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.5.0"
+  }
+}
