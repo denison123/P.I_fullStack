@@ -1,7 +1,7 @@
 const Sequelize = require ('sequelize')
 const { DEFAULT_MIN_VERSION } = require('tls')
-const sequelize = new Sequelize('materiais','root','',{
-    host:'localhost',  
+const sequelize = new Sequelize('materiais','root',{
+    host:'192.168.17.9',  
     dialect:'mysql'
 })
 sequelize.authenticate().then(function(){
