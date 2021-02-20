@@ -1,0 +1,15 @@
+.card{
+
+}
+#corpo{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 3%;
+
+    color: blueviolet;
+}
+#login{
+    text-align: center;
+    box-shadow: 0 12px 20px 0 rgb(20 20 20 / 85%), 0 17px 50px 0 rgb(0 0 0 / 19%);
+    width: 50vh;
+}
